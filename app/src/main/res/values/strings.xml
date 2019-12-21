@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatActivity</string>
+    <string name="title_activity_login">Login</string>
+    <string name="click_here_to_login">Login</string>
+    <string name="register">Registro</string>
+    <string name="enter_password">Password</string>
+    <string name="enter_username">Usuario</string>
+</resources>

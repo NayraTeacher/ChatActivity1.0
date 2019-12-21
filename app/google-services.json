@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877372110244",
+    "firebase_url": "https://chatactivity-495ae.firebaseio.com",
+    "project_id": "chatactivity-495ae",
+    "storage_bucket": "chatactivity-495ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877372110244:android:a5905aca192172c70c3d31",
+        "android_client_info": {
+          "package_name": "com.example.chatactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877372110244-cjsb69lrfinp79nkq88iaestccrlcde9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDapTNBNxS7O73JmaidgfLn_-W41vxK0vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877372110244-cjsb69lrfinp79nkq88iaestccrlcde9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
